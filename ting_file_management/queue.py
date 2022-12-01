@@ -12,7 +12,7 @@ class Queue:
         self._data.append(value)
 
     def dequeue(self):
-        if self.__len__ == 0:
+        if len(self._data) == 0:
             return None
         return self._data.popleft()
 

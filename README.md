@@ -17,16 +17,16 @@ Módulo de buscas que permite operar funções de busca sobre os arquivos anexad
 ## Executando a aplicação
 
 1. Clone o repositório
-- Utilize o comando: `git clone git@github.com:JoaopSilvaa/Tech-News.git`<br />
+- Utilize o comando: `git clone git@github.com:JoaopSilvaa/TING.git`<br />
 2. Acesse a pasta do projeto
-- Acesse a pasta Tech-News com `cd Tech-News`;<br />
+- Acesse a pasta TING com `cd TING`;<br />
 3. Crie uma nova branch a partir da main
  - Verifique se você está na branch `main`
    * Exemplo: `git branch`
  - Se não estiver, mude para a branch `main`
    * Exemplo: `git checkout main`
  - Crie a branch
-    * Exemplo: `git checkout -b joaozinho-tech-news`<br />
+    * Exemplo: `git checkout -b joaozinho-ting`<br />
 4. Instale as dependências gerais do projeto 
 
   - O Python oferece um recurso chamado de ambiente virtual, onde permite sua máquina rodar sem conflitos, diferentes tipos de projetos com diferentes versões de bibliotecas.
